@@ -129,3 +129,77 @@ if (!settings.Science_mod) {
         "Oganesson": 9.223372036854776e+18,
     }
 }
+
+element.Hydrogen = {
+    behavior: behaviors.GAS,
+    color:"D3D3D3",
+    category:"gases",
+    state:"gas",
+    hidden:false
+}
+
+element.Helium = {
+    behavior: behaviors.GAS,
+    color:"C0C0C0",
+    category:"gases",
+    state:"gas",
+    hidden:false
+}
+
+element.Lithium = {
+    behavior: behaviors.WALL,
+    color:"DADBDD",
+    category:"land",
+    state:"solid",
+    hidden:false
+}
+
+element.Beryllium = {
+    behavior: behaviors.WALL,
+    color:"DADBDD",
+    category:"land",
+    state:"solid",
+    hidden:false
+}
+
+element.Boron = {
+    behavior: behaviors.WALL,
+    color:"964B00",
+    category:"land",
+    state:"solid",
+    hidden:false
+}
+
+element.Carbon = {
+    behavior: behaviors.GAS,
+    color:"000000",
+    category:"gases",
+    state:"gas",
+    hidden:false
+}
+
+element.Nitrogen = {
+    behavior: behaviors.GAS,
+    color:"0000FF",
+    category:"gases",
+    state:"gas",
+    hidden:false
+}
+
+element.Oxygen = {
+    behavior: behaviors.GAS,
+    color:"000000",
+    category:"gases",
+    state:"gas",
+    hidden:false
+}
+
+element.Fluorine = {
+    behavior: behaviors.WALL,
+    color:"FFFF00",
+    category:"land",
+    state:"solid",
+    hidden:false
+}
+
+// adding more later
