@@ -1357,4 +1357,4 @@ substance.Silver_Subfluoride = {
     hidden:true
 }
 
-// Doing more later (let's hope my phone is charged in the morning :skull:)
+// My phone's charged! :D Anyways, doing more in few hours (I hope)
